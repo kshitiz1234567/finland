@@ -1,0 +1,24 @@
+bower_components
+node_modules
+*.log
+.env
+.DS_Store
+bundle.js
+test/output
+lib/
+build/
+
+# Oryx
+oryx-manifest.toml
+run.sh
+
+# Azure CLI
+.azure/
+
+# Vagrant
+.vagrant/
+*-cloudimg-console.log
+
+sh.exe.stackdump
+
+.idea
